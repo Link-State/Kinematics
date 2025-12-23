@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LinkState\\Kinematics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|c:\\users\\linkstate\\kinematics\\assets\\scripts\\uav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|C:\\Users\\LinkState\\Kinematics\\assets\\scripts\\manipulatorx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manipulatorx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|C:\\Users\\LinkState\\Kinematics\\assets\\scripts\\twolink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0BFDC1-9BCE-F29A-E650-5AEAE480D32D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\twolink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoLink.cs",
+              "DocumentMoniker": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\TwoLink.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TwoLink.cs",
+              "ToolTip": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\TwoLink.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TwoLink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:25:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManipulatorX.cs",
+              "DocumentMoniker": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\ManipulatorX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ManipulatorX.cs",
+              "ToolTip": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\ManipulatorX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ManipulatorX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:13:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UAV.cs",
+              "DocumentMoniker": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\UAV.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UAV.cs",
+              "ToolTip": "C:\\Users\\LinkState\\Kinematics\\Assets\\Scripts\\UAV.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UAV.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:18:24.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
